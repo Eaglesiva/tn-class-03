@@ -6,7 +6,7 @@
   "page_count_1_valid": 168,
   "renderable_valid": 168,
   "non_zero_size_valid": 168,
-  "total_split_bytes": 212037859,
+  "total_split_bytes": 212037861,
   "page_sizes": {
     "page-001.pdf": 257619,
     "page-002.pdf": 290418,
@@ -46,7 +46,7 @@
     "page-036.pdf": 727808,
     "page-037.pdf": 343178,
     "page-038.pdf": 1296348,
-    "page-039.pdf": 1231498,
+    "page-039.pdf": 1231499,
     "page-040.pdf": 1216814,
     "page-041.pdf": 1487393,
     "page-042.pdf": 1014028,
@@ -174,7 +174,7 @@
     "page-164.pdf": 215773,
     "page-165.pdf": 759711,
     "page-166.pdf": 383200,
-    "page-167.pdf": 259849,
+    "page-167.pdf": 259850,
     "page-168.pdf": 170218
   },
   "validation_passed": true
