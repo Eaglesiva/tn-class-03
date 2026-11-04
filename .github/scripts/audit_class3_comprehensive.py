@@ -242,6 +242,8 @@ def main():
             book_type = "vol2_maths_sci_soc_em"
             display_subj = "VOL-II (MATHS, SCIENCE & SOCIAL)"
             
+        row["subject"] = display_subj
+            
         local_cfg = local_manifest_map.get((term, book_type))
         
         local_pages_sum = 0
@@ -556,3 +558,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
