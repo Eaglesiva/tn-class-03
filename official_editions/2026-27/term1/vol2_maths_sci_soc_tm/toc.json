@@ -1,4 +1,132 @@
 {
-  "toc_status": "MANUAL_REVIEW_REQUIRED",
-  "notes": "Official 2026 Class 3 Term-I VOL-II (MATHS, SCIENCE & SOCIAL) is a combined volume (184 pages). Subject and unit boundaries must be confirmed before separate subject routing."
+  "toc_status": "STRUCTURED_CONFIRMED",
+  "volume_title": "Class 3 Term 1 Volume 2: Mathematics, Science & Social Science (Tamil Medium)",
+  "academic_year": "2026-27",
+  "total_pages": 184,
+  "sections": [
+    {
+      "subject": "Mathematics",
+      "language": "ta",
+      "start_page": 1,
+      "end_page": 84,
+      "prelims_range": [
+        1,
+        6
+      ],
+      "toc_page": 7,
+      "units": [
+        {
+          "unit_number": 1,
+          "lessons": [
+            {
+              "lesson_number": 1,
+              "title": "வண்ண வண்ணப் பூக்கள்",
+              "printed_page": 1,
+              "pdf_page": 8
+            },
+            {
+              "lesson_number": 2,
+              "title": "பொருள்களும் வடிவங்களும்",
+              "printed_page": 7,
+              "pdf_page": 14
+            },
+            {
+              "lesson_number": 3,
+              "title": "மணிகள் எத்தனை?",
+              "printed_page": 15,
+              "pdf_page": 22
+            },
+            {
+              "lesson_number": 4,
+              "title": "எது? எங்கே?",
+              "printed_page": 35,
+              "pdf_page": 42
+            }
+          ]
+        },
+        {
+          "unit_number": 2,
+          "lessons": [
+            {
+              "lesson_number": 5,
+              "title": "எனது விருப்பங்கள்",
+              "printed_page": 47,
+              "pdf_page": 54
+            },
+            {
+              "lesson_number": 6,
+              "title": "மொத்தம் எத்தனை?",
+              "printed_page": 50,
+              "pdf_page": 57
+            },
+            {
+              "lesson_number": 7,
+              "title": "சரியான நீளம்...",
+              "printed_page": 59,
+              "pdf_page": 66
+            },
+            {
+              "lesson_number": 8,
+              "title": "மீதி எத்தனை?",
+              "printed_page": 66,
+              "pdf_page": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "language": "ta",
+      "start_page": 85,
+      "end_page": 142,
+      "prelims_range": [
+        85,
+        86
+      ],
+      "toc_page": 87,
+      "units": [
+        {
+          "unit_number": 1,
+          "title": "என் பாதுகாப்பான உலகம்",
+          "lessons": [
+            {
+              "title": "உடல் இயக்கங்கள்",
+              "printed_page": 81,
+              "pdf_page": 88
+            },
+            {
+              "title": "வியத்தகு பூச்சிகள்",
+              "printed_page": 129,
+              "pdf_page": 136
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Social Science",
+      "language": "ta",
+      "start_page": 143,
+      "end_page": 184,
+      "prelims_range": [
+        143,
+        144
+      ],
+      "toc_page": 145,
+      "units": [
+        {
+          "unit_number": 1,
+          "title": "சுமதியும் நண்பர்களும்",
+          "lessons": [
+            {
+              "title": "சுமதியின் குடும்பம்",
+              "printed_page": 139,
+              "pdf_page": 146
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
